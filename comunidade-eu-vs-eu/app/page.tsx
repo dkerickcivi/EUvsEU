@@ -12,12 +12,12 @@ const images = {
 }
 
 const faqs = [
-  ['Preciso ser dependente para participar?', 'A Comunidade Eu vs Eu reúne pessoas que vivem a dependência, estão em recuperação ou convivem de perto com ela.'],
+  ['Preciso ser dependente para participar?', 'A Comunidade Eu vs Eu reúne pessoas que sofrem com a dependência, estão em recuperação ou convivem de perto com ela.'],
   ['Familiares podem participar?', 'Sim. A comunidade também é para quem ama e convive com alguém que enfrenta a dependência.'],
   ['Como funcionam os encontros?', 'A comunidade tem encontros semanais, histórias reais, estudos de caso, dinâmicas, reflexão e ferramentas práticas.'],
   ['Os encontros ficam gravados?', 'O acesso inclui gravações durante o período escolhido.'],
-  ['É terapia?', 'Não. A Comunidade Eu vs Eu não substitui tratamento ou acompanhamento profissional quando necessário.'],
-  ['O Thiago atende individualmente?', 'A Comunidade Eu vs Eu é uma experiência em comunidade, com encontros e investigação compartilhada.'],
+  ['É terapia?', 'Não. A Comunidade Eu vs Eu não é terapia. Mas é uma experiência terapêutica, proporcionando acolhimento, escuta, reflexão e troca com pessoas que vivem situações semelhantes.É um espaço para investigar, refletir e enxergar sua própria história por uma nova perspectiva.'],
+  ['O Thiago atende individualmente?', 'A comunidade Eu vs Eu é uma experiência em grupo, com encontros, histórias, dinâmicas e momentos de investigação compartilhada.O trabalho dentro da comunidade não é individualizado. Porém, o Thiago também oferece atendimentos individuais para quem busca um acompanhamento mais personalizado.'],
   ['Qual a diferença entre 6 e 12 meses?', 'Você pode escolher 6 ou 12 meses de acesso à comunidade.'],
 ]
 
